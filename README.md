@@ -1,6 +1,6 @@
 # Facial Expression Recognizer
 
-####1.Background
+#### 1.Background
 
 VGG 16 architecture is used to classify 6 emotions.
 
@@ -51,12 +51,3 @@ Test:
 
 - Loss: 0.95643
 - Accuracy: 0.6461
-
-
-
-#### Output
-
-![](/home/bishal/Upwork/Ahamad/EmotionRecognition/Resources/neutral.png) 
-
-
-
