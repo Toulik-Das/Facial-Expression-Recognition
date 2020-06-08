@@ -49,5 +49,5 @@ Validation:
 
 Test:
 
-- Loss: 0.95643
+- Loss: 0.9564
 - Accuracy: 0.6461
