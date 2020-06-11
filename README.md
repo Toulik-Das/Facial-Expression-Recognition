@@ -26,7 +26,6 @@ VGG 16 architecture is used to classify 6 emotions.
 pip install -r requirements.txt
 ```
 
-
 #### 3.Use
 
 - Use train_in_colab.ipynb to train the model in google colab
